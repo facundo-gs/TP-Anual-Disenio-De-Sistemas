@@ -34,7 +34,7 @@ public class AdaptadaTelegramBot extends TelegramLongPollingBot implements Adapt
 
   @Override
   public String getBotToken() {
-    return "6850656325:AAGRzXDDukji5T-PqtF4px1V-_XibNZY7Fg"; // Esto no debería estar acá
+    return "*****"; // Esto no debería estar acá
   }
 
   @Override
